@@ -7,7 +7,7 @@ using System.Data;
 using System.Data.Common;
 using System.Data.SqlClient;
 
-namespace WebApplicationdemo
+namespace WebApplicationdemo //replace 'WebApplicationdemo' with your web application name
 {
     public class Class1
     {
